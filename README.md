@@ -1,4 +1,7 @@
-# ReadME
+# HoriseonAccessiCode
+
+## Deployed URL
+[HoriseonAccessiCode](https://harrismhurley.github.io/HoriseonAccessiCode/)
 
 ## Description
 This project provides more accessability features to the Horiseon Social Solution Services. With the new edited code this project easily allows the user to understand the flow and importance of each element. This project taught me the importance of orginization and how much easier it is working with clean code.
@@ -9,8 +12,9 @@ N/A
 ## Usage
 Code is now blocked into workable pieces, follows a logical pattern, and is displayed as such. Side includes new accessablility features as well, such as alt text for images.
 
-![screenshot-of-header]()
-![screenshot-of-sidebar]()
+## Images
+![screenshot-of-header](./images/header.png)
+![screenshot-of-body](./images/body.png)
 
 ## License
 MIT License
@@ -35,8 +39,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Badges
-N/A
 
 ## Features
 New accessability features such as alt descriptions for all images, as well as cleaner blocked out code for better understanding.
